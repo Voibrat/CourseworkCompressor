@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.25)
+project(Compressor)
+find_package(ZLIB REQUIRED)
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Compressor main.cpp zip.h zipconf.h)
+target_link_libraries(Compressor PRIVATE ZLIB::ZLIB)

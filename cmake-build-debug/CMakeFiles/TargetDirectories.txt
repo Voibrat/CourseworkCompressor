@@ -1,0 +1,3 @@
+/Users/voibrat/CLionProjects/Compressor/cmake-build-debug/CMakeFiles/Compressor.dir
+/Users/voibrat/CLionProjects/Compressor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/voibrat/CLionProjects/Compressor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
